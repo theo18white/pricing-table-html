@@ -6,3 +6,5 @@ Pricing options comparison HTML structure.
 Clone this project and look at the source files:
 - `index.html`
 - `style.css`
+
+*Initialized by theo18white workspace automation.*
